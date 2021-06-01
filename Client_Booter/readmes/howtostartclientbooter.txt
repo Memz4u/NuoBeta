@@ -1,0 +1,1 @@
+redo the setup each time to startup cb
